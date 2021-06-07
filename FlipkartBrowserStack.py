@@ -18,7 +18,7 @@ desired_cap = {
 }
 
 driver = webdriver.Remote(
-    command_executor='https://sameerpatel_SeigIh:WPz7hjx3EhbbrMWrDZhy@hub-cloud.browserstack.com/wd/hub',
+    command_executor='https://sameerpatel_SeigIh:Wxxxxxxxxxxxxxxxxxxxxxxxxxx',
     desired_capabilities=desired_cap)
 driver.get("https://www.flipkart.com/")
 
